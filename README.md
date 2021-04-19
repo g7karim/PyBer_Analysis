@@ -43,10 +43,9 @@ Pyber Fare Summary
 
 
 Summary
-Based on the results listed above, I have come up with three different recommendations to address the disparities among the city types.
+According to the above findings I am presenting three different recommendations to address the disparities among the city types.
+It can be achieved by showing that on average they can make more per ride compared to the other city types (Fig3).
 
-1.	Since rural city types make up 5.3% of rides (Fig6) and 6.8% of fares (Fig5), but only have 2.6% of drivers (Fig7). We should attract more drivers by showing that on average they can make more per ride compared to the other city types (Fig3).
+2.	Similar to the  rural city types, the suburban city types are 26.3% of rides (Fig6) and 30.5% of fares, but only have 16.5% of drivers (Fig7). More drivers need to be attracted by showing they have the most consistent fares compared to the other city types (Fig3).
 
-2.	Similar to rural, suburban city types make up 26.3% of rides (Fig6) and 30.5% of fares, but only have 16.5% of drivers (Fig7). We should attract more drivers by showing they have the most consistent fares compared to the other city types (Fig3).
-
-3.	Oppisite to rural and suburban city types, urban city types only have 68.4% of rides (Fig6) and 62.7% of fares, but have 80.9% of drivers. We should attract more riders by showing that on average their fares are the lowest of any city type (Fig3).
+3.	Unlike the rural and the suburban city types, the urban city types only make up to 68.4% of rides (Fig6) and 62.7% of fares with 80.9% of drivers. Here more riders are in demand. It can be attracted by showing that on average their fares are the lowest of any city type (Fig3).
