@@ -6,7 +6,8 @@ Purpose:
 I am analysing the Pyber's ride-share data to find the differences between the three city types: urban, suburban, and rural. The areas that will be explored for this analysis project is the general overview, rides, drivers, and fares in all three city types.
 
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-differences:
+
+
 Fig 1
 ![Fig1](https://user-images.githubusercontent.com/79559910/115182647-5111c100-a0a8-11eb-97ef-e738280a4d3d.png)
 
