@@ -9,6 +9,7 @@ Results: Using images from the summary DataFrame and multiple-line chart, descri
 
 
 Fig 1
+
 ![Fig1](https://user-images.githubusercontent.com/79559910/115182647-5111c100-a0a8-11eb-97ef-e738280a4d3d.png)
 
 ![Fig2](https://user-images.githubusercontent.com/79559910/115182657-553dde80-a0a8-11eb-836b-95252b26547b.png)
