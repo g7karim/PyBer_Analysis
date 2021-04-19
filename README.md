@@ -13,17 +13,31 @@ Fig 1
 
 ![Fig1](https://user-images.githubusercontent.com/79559910/115182647-5111c100-a0a8-11eb-97ef-e738280a4d3d.png)
 
+Fig 2
+
 ![Fig2](https://user-images.githubusercontent.com/79559910/115182657-553dde80-a0a8-11eb-836b-95252b26547b.png)
+
+Fig 3
 
 ![Fig3](https://user-images.githubusercontent.com/79559910/115182663-58d16580-a0a8-11eb-8a6a-8ee99c8339f4.png)
 
+Fig 4
+
 ![Fig4](https://user-images.githubusercontent.com/79559910/115182676-5cfd8300-a0a8-11eb-9393-50dfd5155052.png)
+
+Fig 5
 
 ![Fig5](https://user-images.githubusercontent.com/79559910/115182680-6129a080-a0a8-11eb-9268-df11855cd91d.png)
 
+Fig 6
+
 ![Fig6](https://user-images.githubusercontent.com/79559910/115182688-64249100-a0a8-11eb-8765-9e8121027f7c.png)
 
+Fig 7
+
 ![Fig7](https://user-images.githubusercontent.com/79559910/115182697-671f8180-a0a8-11eb-8ad5-70bbdc4df55b.png)
+
+Pyber Fare Summary
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/79559910/115182769-8d452180-a0a8-11eb-9687-4ba7b9720dc2.png)
 
